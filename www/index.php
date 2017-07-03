@@ -4,6 +4,7 @@ $username = "root";
 $password = "docker";
 
 // Create connection
+//this is a comment added by lakshmi
 $conn = new mysqli($servername, $username, $password);
 
 // Check connection
