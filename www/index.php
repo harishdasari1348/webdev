@@ -5,6 +5,7 @@ $password = "docker";
 
 // Create connection
 //this is a comment added by lakshmi
+// comment added by abc
 $conn = new mysqli($servername, $username, $password);
 
 // Check connection
