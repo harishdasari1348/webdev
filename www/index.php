@@ -1,11 +1,9 @@
+// this is index file
 <?php
 $servername = "192.168.99.100";
 $username = "root";
 $password = "docker";
 
-// Create connection
-//this is a comment added by lakshmi
-//this is another comment line by lakshmi
 $conn = new mysqli($servername, $username, $password);
 
 // Check connection
