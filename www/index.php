@@ -1,4 +1,4 @@
-// php file
+// This is my php file
 <?php
 $servername = "192.168.99.100";
 $username = "root";
