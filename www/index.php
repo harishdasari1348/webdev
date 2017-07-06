@@ -1,4 +1,4 @@
-// file1
+
 <?php
 $servername = "192.168.99.100";
 $username = "root";
@@ -11,7 +11,6 @@ if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
 } 
 echo "Connected \n successfully";
-
+hi
 ?>
-//VHCJNDXKJI
-//sfcdsf
+
