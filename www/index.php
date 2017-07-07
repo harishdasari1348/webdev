@@ -13,3 +13,4 @@ if ($conn->connect_error) {
 echo "This is a test demo";
 
 ?>
+// This is Index file ending
