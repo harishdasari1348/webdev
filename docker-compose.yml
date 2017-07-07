@@ -21,11 +21,11 @@ services:
     links:
       - db
   db:
-    image: mysql:5.7
+    image: harishdasari1348/webdev_mysql
     ports: 
       - "3306:3306"
     volumes:
       - ./db:/var/lib/mysql
     environment:
       - MYSQL_ROOT_PASSWORD=docker
-      - MYSQL_DATABASE=db_testing
+      
