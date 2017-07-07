@@ -13,4 +13,5 @@ if ($conn->connect_error) {
 echo "This is a demo";
 
 ?>
+// my index file ends here
 
