@@ -1,4 +1,3 @@
-// this is a index file
 <?php
 $servername = "192.168.99.100";
 $username = "root";
@@ -13,5 +12,3 @@ if ($conn->connect_error) {
 echo "This is a demo";
 
 ?>
-
-// end of line
