@@ -1,4 +1,3 @@
-
 <?php
 $servername = "192.168.99.100";
 $username = "root";
@@ -10,7 +9,6 @@ $conn = new mysqli($servername, $username, $password);
 if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
 } 
-echo "Connected \n successfully";
-hi
-?>
+echo "This is a demo";
 
+?>
